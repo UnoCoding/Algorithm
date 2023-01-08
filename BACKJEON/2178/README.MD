@@ -1,4 +1,4 @@
-<a href='https://www.acmicpc.net/problem/2178'> <h1> Problem Link </h1></a>
+<a href='https://www.acmicpc.net/problem/2178'>Problem Link </a>
 <br>
 <h1> input </h1>
 <ul>
